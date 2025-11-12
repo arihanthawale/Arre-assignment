@@ -66,7 +66,7 @@ export default function Footer() {
       <div className="stripe" aria-hidden></div>
 
       <div className="footer-bottom">
-        U Digital Content &nbsp; © 2024 - All Rights Reserved
+        Only For Arihant &nbsp; © 2024 - All Rights Reserved
       </div>
     </footer>
   );
